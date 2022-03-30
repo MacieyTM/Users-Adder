@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Users-Adder/static/css/main.85c88ffb.chunk.css",
+    "main.js": "/Users-Adder/static/js/main.7bef52fd.chunk.js",
+    "main.js.map": "/Users-Adder/static/js/main.7bef52fd.chunk.js.map",
+    "runtime-main.js": "/Users-Adder/static/js/runtime-main.f433ce92.js",
+    "runtime-main.js.map": "/Users-Adder/static/js/runtime-main.f433ce92.js.map",
+    "static/js/2.c2c5598b.chunk.js": "/Users-Adder/static/js/2.c2c5598b.chunk.js",
+    "static/js/2.c2c5598b.chunk.js.map": "/Users-Adder/static/js/2.c2c5598b.chunk.js.map",
+    "index.html": "/Users-Adder/index.html",
+    "precache-manifest.3afc27223a909be520ca2dffa42e6b66.js": "/Users-Adder/precache-manifest.3afc27223a909be520ca2dffa42e6b66.js",
+    "service-worker.js": "/Users-Adder/service-worker.js",
+    "static/css/main.85c88ffb.chunk.css.map": "/Users-Adder/static/css/main.85c88ffb.chunk.css.map",
+    "static/js/2.c2c5598b.chunk.js.LICENSE.txt": "/Users-Adder/static/js/2.c2c5598b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f433ce92.js",
+    "static/js/2.c2c5598b.chunk.js",
+    "static/css/main.85c88ffb.chunk.css",
+    "static/js/main.7bef52fd.chunk.js"
+  ]
+}

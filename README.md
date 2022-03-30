@@ -12,3 +12,5 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/Users-Adder/
+
+![image](https://user-images.githubusercontent.com/95743795/160928152-4b1c088c-b51d-4986-b9b7-7b0bdcb76c94.png)
